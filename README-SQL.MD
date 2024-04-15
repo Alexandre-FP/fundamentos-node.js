@@ -1,0 +1,3 @@
+- COMANDOS SQL
+  - SELECT * FROM nome_tabela => SELECT * (vai selecionar todas as colunas referente a tabela) FROM (nome da tabela que eu quero pegar essas infomções)
+  - SELECT nome_campo1, nome_campo2 FROM nome_tabela => SELECT(vai selecionar os campos das colunas referente a tabela) FROM (nome da tabela que eu quero pegar essas infomções)
